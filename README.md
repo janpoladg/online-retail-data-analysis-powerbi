@@ -1,4 +1,7 @@
-# Online Retail Data Analysis (Power BI)
+#Online Retail Data Analysis (Power BI)
+Project Type
+
+Business Data Analysis | Power BI Dashboard
 
 ## Overview
 This project analyzes online retail transaction data using Power BI to identify revenue trends, top-performing countries, high-value customers, and global product demand.
@@ -21,17 +24,30 @@ Cleaning steps included:
 
 ## Dashboard Visuals
 
+
 ### Monthly Revenue Trend (2011)
 ![Monthly Revenue Trend](q1-monthly-revenue-trend.png)
+
+Shows seasonal revenue patterns across 2011, highlighting a strong increase toward the end of the year.
+
 
 ### Top 10 Countries by Revenue and Quantity (Excl. UK)
 ![Top Countries](q2-top-countries-revenue-quantity.png)
 
+Compares leading international markets based on both revenue and quantity sold, identifying the strongest contributors.
+
+
 ### Top 10 Customers by Revenue
 ![Top Customers](q3-top-customers-revenue.png)
 
+Highlights the highest-value customers, showing how revenue is concentrated among a small group.
+
+
 ### Global Product Demand by Country (Excl. UK)
 ![Global Demand Map](q4-global-demand-map.png)
+
+Visualizes geographic demand distribution to identify key markets and potential regions for expansion.
+
 
 ## Key Insights
 - Revenue increased significantly toward the end of 2011, with a peak in November, suggesting strong seasonal demand.
@@ -39,7 +55,7 @@ Cleaning steps included:
 - A small group of customers generated a large share of revenue, highlighting the importance of customer retention.
 - Product demand was concentrated mainly in European markets, with additional expansion opportunities visible in countries such as Australia and Japan.
 
-## Tools Used
+## Tools & Technologies
 - Power BI
 - Excel
 
